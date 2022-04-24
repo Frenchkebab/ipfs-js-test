@@ -1,0 +1,23 @@
+{
+  "name": "chainshot-nft-activity-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ipfs-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Frenchkebab/simple-nft.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Frenchkebab/simple-nft/issues"
+  },
+  "homepage": "https://github.com/Frenchkebab/simple-nft#readme",
+  "dependencies": {
+    "ipfs-api": "^18.1.1",
+    "ipfs-core": "^0.14.2"
+  }
+}
